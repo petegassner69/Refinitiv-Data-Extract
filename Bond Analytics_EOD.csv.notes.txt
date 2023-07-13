@@ -1,0 +1,34 @@
+Extraction Services Version 17.1.45473 (85dddf1679ec), Built Apr 13 2023 14:34:07
+Holiday Rollover of Universal Close Price waived.
+Processing started at 07.06.2023 16:10:01.
+User ID: 9034508
+Extraction ID: 658770253
+Correlation ID: CiD/9034508/AAAAAA.08808c699b08d537/GU/A2/EXT.658770253
+Schedule: EOD Bond Analytics Daily Test (ID = 0x08808e366e28d53a)
+Input List (88 items): Convertible Fund ISIN (ID = 087ca1b9d468cc15) Created: 26.05.2023 15:19:26 Last Modified: 26.05.2023 15:37:57
+Schedule Time: 07.06.2023 16:10:00
+Report Template (14 fields): EOD Bond Analytics (ID = 0x087c6e8d86a8cbb4) Created: 26.05.2023 15:13:21 Last Modified: 06.06.2023 17:06:44
+Processing completed successfully at 07.06.2023 16:10:01, taking 0.648 Secs.
+Extraction finished at 07.06.2023 15:10:01 UTC, with servers: x08i04, QSDHA1 (0.0 secs), QSHC15 (0.1 secs)
+Usage Summary for User 9034508, Client 105698, Template Type EOD Pricing
+Base Usage
+        Instrument                          Instrument                   Terms          Price
+  Count Type                                Subtype                      Source         Source
+------- ----------------------------------- ---------------------------- -------------- ----------------------------------------
+     87 Corporate                           Convertible                  N/A            N/A
+-------
+     87 Total instruments charged.
+      1 Instrument with no reported data.
+=======
+     88 Instruments in the input list.
+Premium Usage: Fixed Income Valuations
+        Instrument                          Instrument                   Terms          Price
+  Count Type                                Subtype                      Source         Source
+------- ----------------------------------- ---------------------------- -------------- ----------------------------------------
+     87 Corporate                           Convertible                  N/A            N/A
+-------
+     87 Total instruments charged.
+      1 Instrument with no reported data.
+=======
+     88 Instruments in the input list.
+No Evaluated Pricing Service complex usage to report -- 88 Instruments in the input list had no reported data.
