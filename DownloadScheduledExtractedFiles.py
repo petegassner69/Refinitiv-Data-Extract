@@ -17,8 +17,8 @@ def show_all_schedule(schedules):
 
 if __name__ == "__main__":
     
-    dss_username = "9034508"
-    dss_password = "Refinitiv1969!"
+    dss_username = "" #put username here
+    dss_password = "" #put password here
     schedule_name = "EOD Bond Analytics Daily Test"
 
     #The Process is:
